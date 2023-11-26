@@ -1,0 +1,33 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Unreal Theme v1.0",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(8, 8, 8)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(8, 8, 8)",
+      "tab_background_text": "rgb(136, 136, 136)",
+      "toolbar_field": "rgb(25, 25, 25)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(255, 255, 255)",
+      "popup": "rgb(0, 0, 0)",
+      "popup_text": "rgb(255, 255, 255)",
+      "icons_attention": "rgb(211, 249, 253)",
+      "ntp_background": "rgb(0, 0, 0)",
+      "popup_border": "rgb(53, 53, 53)",
+      "popup_highlight_text": "rgb(8, 8, 8)",
+      "popup_highlight": "rgb(192, 227, 224)",
+      "sidebar_border": "rgb(8, 8, 8)",
+      "sidebar_highlight_text": "rgb(0, 0, 0)",
+      "sidebar_highlight": "rgb(186, 247, 255)",
+      "sidebar": "rgb(8, 8, 8)",
+      "tab_loading": "rgb(224, 247, 250)",
+      "toolbar_field_border_focus": "rgb(37, 37, 37)",
+      "toolbar_field_highlight_text": "rgb(8, 8, 8)",
+      "toolbar_field_highlight": "rgb(160, 202, 198)"
+    }
+  }
+}
